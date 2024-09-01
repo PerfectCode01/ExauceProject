@@ -186,13 +186,5 @@
             <p class="text-sm">&copy; 2024 TechEdu. Tous droits réservés.</p>
         </div>
     </footer>
-    
-
-
-
-
-   
-  
-
 </body>
 </html>
